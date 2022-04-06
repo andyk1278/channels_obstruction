@@ -16,7 +16,7 @@ optional-django==0.1.0
 react==4.1.1
 requests==2.18.4
 six==1.11.0
-Twisted==17.9.0
+Twisted==22.2.0
 txaio==2.8.2
 urllib3==1.22
 webpack==6.0.0
